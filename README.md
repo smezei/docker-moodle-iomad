@@ -74,5 +74,5 @@ The following aren't handled, considered, or need work:
 
 ## Credits
 
-This is a fork of [Jade Auer's](https://github.com/jmhardison/docker-moodle.git) Dockerfile.
+This is a fork of JHardison's](https://github.com/jmhardison/docker-moodle.git) Dockerfile.
 
