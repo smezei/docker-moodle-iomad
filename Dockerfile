@@ -2,7 +2,7 @@
 # 
 # Forked from Jonathan Hardison's docker version. https://github.com/jmhardison/docker-moodle
 FROM ubuntu:18.04
-LABEL maintainer="Sandor Mezei" <mezeis87@gmail.com>
+LABEL maintainer="Sandor Mezei <mezeis87@gmail.com>"
 
 VOLUME ["/var/moodledata"]
 EXPOSE 80 443
